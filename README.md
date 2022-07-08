@@ -3,4 +3,5 @@ Primer repositorio de Github
 
 Más líneasss
 
-# Documentación 1 (Des-1)
+# Documentacion 2 (Des-2)
+Documentacion del desarrollador 2
