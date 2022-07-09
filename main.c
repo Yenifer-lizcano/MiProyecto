@@ -6,6 +6,7 @@ int main (void)
     // git pull origin main (jala el commit al local)
     // git commit -am (guardar de manera local)
     // git push origin main (empujar los cambios al servidor remoto)
+    // git reset --hard (volver al estado en el que estaba al comienzo)
 
     // git branch (nombre de la nueva linea) crear linea
     // git checkout (nombre de la linea)
@@ -25,6 +26,8 @@ int main (void)
     // despues que aceptan el pull request
     //Merge Pull Request - se confirma 
 
+
+    /*Cambio 1 del MAIN*/
 
 } 
 
